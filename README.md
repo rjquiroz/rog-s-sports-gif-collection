@@ -1,3 +1,6 @@
+## Description
+Web application designed using React. This web application allows you to connect your phantom wallet(for solana), which you will need to do in order to watch the gif stored already. Then, you have the oportunity to upload your own gif into the solana blockchain for a modest fee. The web application also counts with social media conectivity.
+
 ## Demonstration
 ![Demonstration GIF](src/assets/ezgif.com-gif-maker.gif)  <br />
 
