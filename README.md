@@ -1,3 +1,6 @@
+## Demonstration
+![Demonstration GIF](src/assets/ezgif.com-gif-maker.gif)  <br />
+
 ## Running Example
 https://replit.com/@RonaldQuiroz1/rogs-sports-gif-collection?v=1
 
